@@ -1,0 +1,15 @@
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\whileLoops\bin\Debug\net8.0\whileLoops.exe
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\whileLoops\bin\Debug\net8.0\whileLoops.deps.json
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\whileLoops\bin\Debug\net8.0\whileLoops.runtimeconfig.json
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\whileLoops\bin\Debug\net8.0\whileLoops.dll
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\whileLoops\bin\Debug\net8.0\whileLoops.pdb
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\whileLoops\obj\Debug\net8.0\whileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\whileLoops\obj\Debug\net8.0\whileLoops.AssemblyInfoInputs.cache
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\whileLoops\obj\Debug\net8.0\whileLoops.AssemblyInfo.cs
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\whileLoops\obj\Debug\net8.0\whileLoops.csproj.CoreCompileInputs.cache
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\whileLoops\obj\Debug\net8.0\whileLoops.sourcelink.json
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\whileLoops\obj\Debug\net8.0\whileLoops.dll
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\whileLoops\obj\Debug\net8.0\refint\whileLoops.dll
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\whileLoops\obj\Debug\net8.0\whileLoops.pdb
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\whileLoops\obj\Debug\net8.0\whileLoops.genruntimeconfig.cache
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\whileLoops\obj\Debug\net8.0\ref\whileLoops.dll

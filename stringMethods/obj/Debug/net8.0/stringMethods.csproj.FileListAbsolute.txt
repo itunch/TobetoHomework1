@@ -1,0 +1,15 @@
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\stringMethods\bin\Debug\net8.0\stringMethods.exe
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\stringMethods\bin\Debug\net8.0\stringMethods.deps.json
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\stringMethods\bin\Debug\net8.0\stringMethods.runtimeconfig.json
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\stringMethods\bin\Debug\net8.0\stringMethods.dll
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\stringMethods\bin\Debug\net8.0\stringMethods.pdb
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\stringMethods\obj\Debug\net8.0\stringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\stringMethods\obj\Debug\net8.0\stringMethods.AssemblyInfoInputs.cache
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\stringMethods\obj\Debug\net8.0\stringMethods.AssemblyInfo.cs
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\stringMethods\obj\Debug\net8.0\stringMethods.csproj.CoreCompileInputs.cache
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\stringMethods\obj\Debug\net8.0\stringMethods.sourcelink.json
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\stringMethods\obj\Debug\net8.0\stringMethods.dll
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\stringMethods\obj\Debug\net8.0\refint\stringMethods.dll
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\stringMethods\obj\Debug\net8.0\stringMethods.pdb
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\stringMethods\obj\Debug\net8.0\stringMethods.genruntimeconfig.cache
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\stringMethods\obj\Debug\net8.0\ref\stringMethods.dll

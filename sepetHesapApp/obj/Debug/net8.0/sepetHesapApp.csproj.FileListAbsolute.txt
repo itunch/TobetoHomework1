@@ -1,0 +1,15 @@
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\sepetHesapApp\bin\Debug\net8.0\sepetHesapApp.exe
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\sepetHesapApp\bin\Debug\net8.0\sepetHesapApp.deps.json
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\sepetHesapApp\bin\Debug\net8.0\sepetHesapApp.runtimeconfig.json
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\sepetHesapApp\bin\Debug\net8.0\sepetHesapApp.dll
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\sepetHesapApp\bin\Debug\net8.0\sepetHesapApp.pdb
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\sepetHesapApp\obj\Debug\net8.0\sepetHesapApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\sepetHesapApp\obj\Debug\net8.0\sepetHesapApp.AssemblyInfoInputs.cache
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\sepetHesapApp\obj\Debug\net8.0\sepetHesapApp.AssemblyInfo.cs
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\sepetHesapApp\obj\Debug\net8.0\sepetHesapApp.csproj.CoreCompileInputs.cache
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\sepetHesapApp\obj\Debug\net8.0\sepetHesapApp.sourcelink.json
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\sepetHesapApp\obj\Debug\net8.0\sepetHesapApp.dll
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\sepetHesapApp\obj\Debug\net8.0\refint\sepetHesapApp.dll
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\sepetHesapApp\obj\Debug\net8.0\sepetHesapApp.pdb
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\sepetHesapApp\obj\Debug\net8.0\sepetHesapApp.genruntimeconfig.cache
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\sepetHesapApp\obj\Debug\net8.0\ref\sepetHesapApp.dll

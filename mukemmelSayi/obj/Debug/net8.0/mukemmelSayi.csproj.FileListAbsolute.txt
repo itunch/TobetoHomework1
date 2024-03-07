@@ -1,0 +1,15 @@
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\mukemmelSayi\bin\Debug\net8.0\mukemmelSayi.exe
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\mukemmelSayi\bin\Debug\net8.0\mukemmelSayi.deps.json
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\mukemmelSayi\bin\Debug\net8.0\mukemmelSayi.runtimeconfig.json
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\mukemmelSayi\bin\Debug\net8.0\mukemmelSayi.dll
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\mukemmelSayi\bin\Debug\net8.0\mukemmelSayi.pdb
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\mukemmelSayi\obj\Debug\net8.0\mukemmelSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\mukemmelSayi\obj\Debug\net8.0\mukemmelSayi.AssemblyInfoInputs.cache
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\mukemmelSayi\obj\Debug\net8.0\mukemmelSayi.AssemblyInfo.cs
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\mukemmelSayi\obj\Debug\net8.0\mukemmelSayi.csproj.CoreCompileInputs.cache
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\mukemmelSayi\obj\Debug\net8.0\mukemmelSayi.sourcelink.json
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\mukemmelSayi\obj\Debug\net8.0\mukemmelSayi.dll
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\mukemmelSayi\obj\Debug\net8.0\refint\mukemmelSayi.dll
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\mukemmelSayi\obj\Debug\net8.0\mukemmelSayi.pdb
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\mukemmelSayi\obj\Debug\net8.0\mukemmelSayi.genruntimeconfig.cache
+C:\Users\aytun\Documents\GitHub\TobetoHomework1\mukemmelSayi\obj\Debug\net8.0\ref\mukemmelSayi.dll
