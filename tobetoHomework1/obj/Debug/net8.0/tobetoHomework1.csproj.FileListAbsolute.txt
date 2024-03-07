@@ -1,0 +1,14 @@
+C:\Users\aytun\Desktop\istanbulkodluyor\camp\homework\tobetoHomework1\tobetoHomework1\obj\Debug\net8.0\tobetoHomework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytun\Desktop\istanbulkodluyor\camp\homework\tobetoHomework1\tobetoHomework1\obj\Debug\net8.0\tobetoHomework1.AssemblyInfoInputs.cache
+C:\Users\aytun\Desktop\istanbulkodluyor\camp\homework\tobetoHomework1\tobetoHomework1\obj\Debug\net8.0\tobetoHomework1.AssemblyInfo.cs
+C:\Users\aytun\Desktop\istanbulkodluyor\camp\homework\tobetoHomework1\tobetoHomework1\obj\Debug\net8.0\tobetoHomework1.csproj.CoreCompileInputs.cache
+C:\Users\aytun\Desktop\istanbulkodluyor\camp\homework\tobetoHomework1\tobetoHomework1\bin\Debug\net8.0\tobetoHomework1.exe
+C:\Users\aytun\Desktop\istanbulkodluyor\camp\homework\tobetoHomework1\tobetoHomework1\bin\Debug\net8.0\tobetoHomework1.deps.json
+C:\Users\aytun\Desktop\istanbulkodluyor\camp\homework\tobetoHomework1\tobetoHomework1\bin\Debug\net8.0\tobetoHomework1.runtimeconfig.json
+C:\Users\aytun\Desktop\istanbulkodluyor\camp\homework\tobetoHomework1\tobetoHomework1\bin\Debug\net8.0\tobetoHomework1.dll
+C:\Users\aytun\Desktop\istanbulkodluyor\camp\homework\tobetoHomework1\tobetoHomework1\bin\Debug\net8.0\tobetoHomework1.pdb
+C:\Users\aytun\Desktop\istanbulkodluyor\camp\homework\tobetoHomework1\tobetoHomework1\obj\Debug\net8.0\tobetoHomework1.dll
+C:\Users\aytun\Desktop\istanbulkodluyor\camp\homework\tobetoHomework1\tobetoHomework1\obj\Debug\net8.0\refint\tobetoHomework1.dll
+C:\Users\aytun\Desktop\istanbulkodluyor\camp\homework\tobetoHomework1\tobetoHomework1\obj\Debug\net8.0\tobetoHomework1.pdb
+C:\Users\aytun\Desktop\istanbulkodluyor\camp\homework\tobetoHomework1\tobetoHomework1\obj\Debug\net8.0\tobetoHomework1.genruntimeconfig.cache
+C:\Users\aytun\Desktop\istanbulkodluyor\camp\homework\tobetoHomework1\tobetoHomework1\obj\Debug\net8.0\ref\tobetoHomework1.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tobetoHomework1/1.0.0": {
+        "runtime": {
+          "tobetoHomework1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tobetoHomework1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
